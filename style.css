@@ -1,0 +1,12 @@
+p
+{
+    margin: 0;
+    padding: 0;
+    margin-left: 1.7rem;
+}
+
+table, th, td
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
